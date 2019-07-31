@@ -12,4 +12,4 @@ Estabilizador: O estabilizador consiste de 3 servomotores MG996R para o controle
 
           Placa Arduino
 
-          Breadboard e fios de salto
+          Breadboard e fios de jump
