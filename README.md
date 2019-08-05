@@ -1,6 +1,5 @@
 <h1><strong>SLIDER DE C&Acirc;MERA MOTORIZADO</strong></h1>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>🎥 Slider de c&acirc;mera anexado a um suporte controlado por um Arduino, tr&ecirc;s motores de passo, alguns bot&otilde;es e um joystick anexado em um PCB personalizado, para obter&nbsp;movimentos de c&acirc;mera super-suaves que nos permitem obter fotos cinematogr&aacute;ficas com apar&ecirc;ncia profissional.</p>
 <p>&nbsp;</p>
 <h3>Vis&atilde;o Global:</h3>
