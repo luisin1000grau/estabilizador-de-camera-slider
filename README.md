@@ -1,4 +1,5 @@
-<h1><strong><img src="http://www.commercialbldrs.com/wp-content/uploads/2018/03/20170828_131323-1200x480.jpg" alt="Resultado de imagem para wallpaper cinema 1200x480" width="615" height="246" />SLIDER DE C&Acirc;MERA MOTORIZADO</strong></h1>
+<h1><img src="http://www.commercialbldrs.com/wp-content/uploads/2018/03/20170828_131323-1200x480.jpg" alt="Resultado de imagem para wallpaper cinema 1200x480" width="620" height="248" /></h1>
+<h1><strong>SLIDER DE C&Acirc;MERA MOTORIZADO</strong></h1>
 <p>&nbsp;</p>
 <p>🎥 Slider de c&acirc;mera anexado a um suporte controlado por um Arduino, tr&ecirc;s motores de passo, alguns bot&otilde;es e um joystick anexado em um PCB personalizado, para obter&nbsp;movimentos de c&acirc;mera super-suaves que nos permitem obter fotos cinematogr&aacute;ficas com apar&ecirc;ncia profissional.</p>
 <p>&nbsp;</p>
